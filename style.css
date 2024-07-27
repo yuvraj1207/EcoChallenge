@@ -1,0 +1,53 @@
+label{
+    text-align: center;
+    font-weight: 600; 
+    padding-right: 20px;
+   } 
+   body {
+    background-color:rgb(168, 218, 213); 
+    background-image: url("assets/background-img.jpg");
+    font-family: 'Poppins', sans-serif;
+    color:black;
+   }
+   .container{
+    text-align:left;
+    background-color: rgb(255,255,255,0.8);
+    margin:0 400px;
+    padding: 20px 80px;
+    border-radius: 20px;
+    
+   }
+   h1{
+    text-align :center;
+    color:azure;
+    font-size:70px;
+   }
+   .container1{
+    text-align: center;
+   }
+   .sub{
+    margin:0 20px;
+    padding:5px 20px;
+    border-radius: 16px;
+   }
+   table{
+    color: aliceblue;
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+   }
+   h3,p {
+    text-align :center;
+    color:azure;
+    font-size: xx-large;
+   }
+   ol,ul,dl{
+    text-align: center;
+    color:azure;
+    font-size: larger;
+   }
+header{
+    text-align :center;
+    color:azure;
+    font-size:500px;
+}
