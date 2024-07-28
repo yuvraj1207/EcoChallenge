@@ -51,3 +51,12 @@ header{
     color:azure;
     font-size:500px;
 }
+h2 {
+    text-align :center;
+    color:azure;
+    font-size: xx-large;
+}
+.login_pg {
+    color: aliceblue;
+    text-align: center;
+}
